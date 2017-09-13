@@ -2,6 +2,8 @@ procedure TfrmHICFAEditor.btnReloadFromBillClick(Sender: TObject);
 begin
   inherited;
   CustomCMS1500.InitObject;
+  inherited;
+  CustomCMS1500.InitObject;
   LoadIntoCustomCMS1500(CustomCMS1500.SuperBill as TSuperBill, CustomCMS1500);
   Load(CustomCMS1500);
 end;
