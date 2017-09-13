@@ -6,8 +6,7 @@ begin
   CustomCMS1500.InitObject;
   LoadIntoCustomCMS1500(CustomCMS1500.SuperBill as TSuperBill, CustomCMS1500);
   Load(CustomCMS1500);
-  //kosi
-  //geni
+  
   //kwas taras
   //taras e fras
   //taras e pederas - feature change
