@@ -9,4 +9,5 @@ begin
   //kosi
   //geni
   //kwas taras
+  //taras e fras
 end;
